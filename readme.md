@@ -22,7 +22,7 @@ This model works on OpenCV and face_recognition library. The model works on the 
 
 ## 1. Person Detection:
 
-<img src="readme_images/person_detection1.png" title="" alt="" width="510">
+![](readme_images/face_detection1.png)
 
 The model is trained to only identify and highlight person in a video feed. It also tracks their movement. The model also captures the image of the person when confidence is more than 90%.
 
